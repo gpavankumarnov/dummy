@@ -1,3 +1,4 @@
 file 1 changes
 file 3 changes
 file 2 changes
+file 4 changes
