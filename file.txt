@@ -2,7 +2,12 @@ file 1 changes
 file 3 changes
 file 2 changes
 file 4 changes
+file 5 changes
 
+<<<<<<< HEAD
 app changes added
 adding different changes
+=======
+adding required changes
+>>>>>>> master
 adding multiple changes
