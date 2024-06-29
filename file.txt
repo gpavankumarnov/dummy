@@ -1,3 +1,2 @@
 Hello app
 application changes
-added
